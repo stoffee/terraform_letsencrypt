@@ -1,0 +1,6 @@
+common_name = "domain.io"
+subject_alternative_names = ["api.domain.io","www.domain.io","backend.domain.io"]
+email_address = "user@domain.io"
+aws_region = "us-west-1"
+aws_access_key = "YOUR-AWS-ACCESS-KEY"
+aws_secret_key = "YOUR-AWS-SECRET-KEY"
